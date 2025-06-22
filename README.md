@@ -1,4 +1,4 @@
-# wifi-network-validation
+
 # WiFi Network Validation
 
 In this project, I set up and validated Wi-Fi network connectivity on Linux (Ubuntu). I used several core networking tools to test network behavior, examine routing paths, and capture live packet data with Wireshark. The goal was to build practical experience in Linux-based network configuration and troubleshooting.
